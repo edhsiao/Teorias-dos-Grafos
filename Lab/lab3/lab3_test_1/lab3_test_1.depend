@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493921877 source:/home/ehsiao/lab3_test_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

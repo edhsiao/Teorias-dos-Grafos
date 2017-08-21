@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475871857 source:c:\users\sha0\desktop\unifesp\grafos\grafo_transp\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476763164 source:c:\users\loki\desktop\grafos\lab\lab2\lab2_fim\main.c
+	<stdio.h>
+	<stdlib.h>
+

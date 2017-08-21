@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475867404 source:c:\users\sha0\desktop\unifesp\grafos\lab\cfc\main.cpp
+	<iostream>
+	<list>
+	<stack>
+

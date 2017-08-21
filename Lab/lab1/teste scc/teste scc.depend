@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492828218 source:d:\dropbox\shao unifesp\teoria dos grafos\_2017\lab\lab1\teste scc\main.cpp
+	<iostream>
+	<list>
+	<stack>
+
